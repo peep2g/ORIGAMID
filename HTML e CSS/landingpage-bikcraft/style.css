@@ -1,0 +1,184 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+b,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: baseline;
+}
+
+#bikcraftlogo {
+  text-align: center;
+  font-size: 37px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  display: grid;
+  gap: 60px;
+  margin-top: 60px;
+  justify-content: center;
+  background-color: #f7f7f7;
+}
+
+.links {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 20px;
+  padding-bottom: 60px;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1000px;
+}
+
+.informacao {
+  display: grid;
+  grid-column: 1;
+  justify-items: end;
+  align-items: center;
+  text-align: right;
+  padding: 20px;
+  background-color: white;
+  position: relative;
+}
+
+span {
+  width: 60px;
+  height: 4px;
+  background-color: #ee2211;
+  position: absolute;
+  top: 30px;
+  right: -30px;
+}
+.botao {
+  background-color: #ee2211;
+  color: white;
+}
+
+.descricao {
+  padding: 40px;
+  background-color: white;
+}
+
+p {
+  margin: 10px;
+}
+.icones {
+  margin-right: 5px;
+}
+
+.pdesc {
+  padding: 5px;
+}
+#bike {
+  max-width: 100%;
+  grid-column: 2;
+}
+
+h2 {
+  margin-top: 100px;
+  margin-right: 10px;
+  font-size: 64px;
+  text-align: right;
+  color: #c6c6c6;
+}
+
+.direitos {
+  text-align: center;
+  padding: 50px;
+}
