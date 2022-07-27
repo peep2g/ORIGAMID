@@ -1,4 +1,4 @@
-  <h1> 🚲 LANGING-PAGE BIKCRAFT (Iniciante) </h1>
+  <h1> 🚲 LANDING-PAGE BIKCRAFT (Iniciante) </h1>
   <p>Essa landing-page foi a <strong>primeira</strong> que criei, o professor passou uma base de criação e tínhamos que replicar, acredito que dei meu melhor no nível de conhecimento que tenho. A iniciativa em cria-la foi após diversos ensinamentos sobre GRID/FLEX, essa atividade serviu como uma prova para vermos nosso avanço nas tecnologias WEB.</p>
   <h2> 🖥️ Demonstração </h2>
   <img src="https://github.com/peep2g/ORIGAMID/blob/main/HTML%20e%20CSS/landingpage-bikcraft/img/demonstra%C3%A7%C3%A3o.png?raw=true">
