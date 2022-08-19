@@ -4,7 +4,7 @@
 <h2> ⬆️ Futuras Atualizações:</h2>
 <ul>
   <li> Pseudo-Elements e Semântica HTML;</li>
-  <li> Design Responsivo, Media Queries, entre outros.</li>
+  <li> Design Responsivo.</li>
 </ul>
 
 <h2> 🖥️ Demonstração: </h2>
