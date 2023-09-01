@@ -6,8 +6,8 @@
     <li>HTML & CSS;</li>
     <li>JavaScript;</li>
     <li>React;</li>
-    <li>Figma;</li>
-    <li>Adobe XD.</li>
+    <li>Wordpress;</li>
+    <li>Figma.</li>
   </ul>
   <p>Talvez dependendo da época que você estiver vendo esse repositório, não tenha todas as tecnologias que mencionei acima, mas é questão de tempo para eu colocar elas no ar. </p>
   <h3> 🦅 FIM!</h3>
